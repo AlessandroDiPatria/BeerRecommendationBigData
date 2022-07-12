@@ -20,6 +20,6 @@ Build recommender system with different approach, Alternating Least of Squares  
 Building a web app with python and streamlit using content based model
 
 
-![Screenshot](Final Beer Reccomandation/1.jpg)
+![Screenshot](1.jpg)
 
-![plot](./Final Beer Reccomandation/1.jpg)
+![plot](1.jpg)
