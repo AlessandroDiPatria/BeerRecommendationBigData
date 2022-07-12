@@ -21,5 +21,9 @@ Building a web app with python and streamlit using content based model
 
 
 ![Screenshot](Slides/1.jpg) 
-
-![plot](1.jpg)
+![Screenshot](Slides/2.jpg) 
+![Screenshot](Slides/3.jpg) 
+![Screenshot](Slides/4.jpg) 
+![Screenshot](Slides/5.jpg) 
+![Screenshot](Slides/6.jpg) 
+![Screenshot](Slides/7.jpg) 
