@@ -17,5 +17,6 @@ Analisis of the single features, data sparcity, statistics
 Build recommender system with different approach, ALS and SVD for Collaborative filtering. Cosine similarty for Content based
 
 ### Web reccomander system 
+Building a web app with python and streamlit using content based model
 
 
