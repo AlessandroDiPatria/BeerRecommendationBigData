@@ -14,7 +14,7 @@ There are two types of recommender system : Collaborative Filtering and Content 
 Analisis of the single features, data sparcity, statistics
 
 ### Recommender system multi-approach
-Build recommender system with different approach, ALS and SVD for Collaborative filtering. Cosine similarty for Content based
+Build recommender system with different approach, Alternating Least of Squares  and Single Value Decomposition for Collaborative filtering. Cosine similarty for Content based
 
 ### Web reccomander system 
 Building a web app with python and streamlit using content based model
