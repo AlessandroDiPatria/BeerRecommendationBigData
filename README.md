@@ -1,4 +1,4 @@
-# BeerRecommendationBigData
+# Beer Recommendation System (BigData)
 Big data project about recommendation (grade 30)
 
 ## What is a recommender system ?
