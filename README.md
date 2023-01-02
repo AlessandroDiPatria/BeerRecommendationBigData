@@ -1,5 +1,5 @@
-# Beer Recommendation System (BigData)
-Big data project about recommendation (grade 30)
+# Beer Recommendation System Data Science Analysis
+Big data project about recommendation Systems  (grade 30)
 
 ## What is a recommender system ?
 Tool that make recommendations for the users to help them in their choices
